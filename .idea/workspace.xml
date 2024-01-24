@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ac7c07b-f17e-45f9-9ef1-7fd4ddfdaa64" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/github.html" beforeDir="false" afterPath="$PROJECT_DIR$/github.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2akv7kkc2bbECTUlA9ivIZLoX5O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/emobilis/Desktop/karry/assets/images&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images" />
+      <recent name="$PROJECT_DIR$/assets/lmages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-7a29c1521ef0-c986f194a52a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.11799.298" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ac7c07b-f17e-45f9-9ef1-7fd4ddfdaa64" name="Changes" comment="" />
+      <created>1704875228644</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704875228644</updated>
+      <workItem from="1704875233082" duration="5253000" />
+      <workItem from="1704948831667" duration="13000" />
+      <workItem from="1704960530159" duration="8412000" />
+      <workItem from="1704969523291" duration="202000" />
+      <workItem from="1705036605467" duration="22000" />
+      <workItem from="1705046538487" duration="9846000" />
+      <workItem from="1705305799812" duration="9637000" />
+      <workItem from="1705391698850" duration="7291000" />
+      <workItem from="1705467627856" duration="12000" />
+      <workItem from="1705478153242" duration="10100000" />
+      <workItem from="1705488700704" duration="150000" />
+      <workItem from="1705564993335" duration="9010000" />
+      <workItem from="1705653859970" duration="60000" />
+      <workItem from="1705654015728" duration="16000" />
+      <workItem from="1705654233547" duration="19000" />
+      <workItem from="1705654804194" duration="91000" />
+      <workItem from="1705655601268" duration="22000" />
+      <workItem from="1705655948073" duration="31000" />
+      <workItem from="1705657660386" duration="159000" />
+      <workItem from="1705657907127" duration="57000" />
+      <workItem from="1705658569374" duration="111000" />
+      <workItem from="1705658763819" duration="59000" />
+      <workItem from="1705658888666" duration="26000" />
+      <workItem from="1705658934007" duration="32000" />
+      <workItem from="1705658983551" duration="1685000" />
+      <workItem from="1705661000313" duration="19000" />
+      <workItem from="1705661032694" duration="3000" />
+      <workItem from="1705661188404" duration="183000" />
+      <workItem from="1705910938688" duration="5042000" />
+      <workItem from="1705997802006" duration="6030000" />
+      <workItem from="1706083307844" duration="3911000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
